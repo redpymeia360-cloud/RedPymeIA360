@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://redpyme-ia-360.netlify.app/sitemap.xml
